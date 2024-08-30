@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270135789498",
+    "project_id": "mars-a4590",
+    "storage_bucket": "mars-a4590.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270135789498:android:06675f1d7cc067e6e97f83",
+        "android_client_info": {
+          "package_name": "com.example.mars"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDJ6oi6j-CVyQGh-fLWDW3-GsAAZJ7QGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
